@@ -26,6 +26,7 @@ export default function Home() {
             strings: [
               "✋I'm JOTHI",
               "I'm an  Full-Stack 🌐developer",
+              "Graphic designer",
               "I'm a BCA Student 👨‍🎓 ",
               "You can 📲 me through  ✉️",
             ],

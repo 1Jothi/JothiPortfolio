@@ -191,10 +191,12 @@ export default function Resume() {
           <div className="ml-16 flex flex-col gap-8 mt-6">
             <BarGraph name={"JavaScript"} percent={65} />
             <BarGraph name={"ReactJs"} percent={75} />
-            <BarGraph name={"TypeScript"} percent={60} />
+            <BarGraph name={"Canva"} percent={60} />
             <BarGraph name={"Java"} percent={80} />
+            <BarGraph name={"Adobe Photoshop"} percent={60} />
             <BarGraph name={"HTML"} percent={85} />
             <BarGraph name={"CSS"} percent={85} />
+            <BarGraph name={"My Sql"} percent={60} />
             <BarGraph name={"MongoDb"} percent={65} />
             <BarGraph name={"GitHub"} percent={75} />
             <BarGraph name={"SpringBoot"} percent={40} />

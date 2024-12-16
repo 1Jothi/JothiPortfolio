@@ -29,24 +29,26 @@ export default function About() {
             className="text-xl lg:text-3xl font-medium"
             data-aos={"fade-left"}
           >
-            I'm <span className="text-yellow-600">Jothi,</span> a Full Stack Developer
+            I'm <span className="text-yellow-600">Jothi,</span> a Full Stack Developer and graphic designer
             
           </h3>
           <p
             className="pt-5 leading-7 text-slate-900 text-justify"
             data-aos={"fade-left"}
           >
-             . I am
-            currently pursuing BCA degree . I am {getDate()}{" "}
+             I Recently completed 
+             BCA degree . I am {getDate()}{" "}
             years old.I love exploring new technologies.
           </p>
           <p
             className="text-justify leading-7 text-slate-900"
             data-aos={"fade-right"}
           >
-            I am currently looking for jobs."I am a full-stack developer proficient in both front-end
-             and back-end technologies. With expertise in HTML, CSS, JavaScript, and 
-             server-side languages, I am equipped to create comprehensive web solutions.
+            I am currently looking for jobs.A graphic designer skilled in Adobe Photoshop and Canva,
+             and a full-stack developer creating impactful visuals and dynamic web solutions. Passionate about 
+             blending creativity 
+            with technology to deliver unique designs, with expertise in HTML, CSS, JavaScript, and React Js .
+            "I am equipped to create comprehensive web solutions.
               Eager to contribute my skills to innovative projects and collaborate in dynamic 
               development environments."
           </p>
